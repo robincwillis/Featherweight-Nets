@@ -6,10 +6,10 @@
    |_/\__/  \_/ |_/  |  |_/ \/ \/  |_/|__/|__/|_/ \/ \___/\__/ \_/|_/|__/
 ```
 
-Title: fw_Nets
-Author: Robin Willis
-Modified: 3/18/11
-Version: 1
+Title: fw_Nets  
+Author: Robin Willis  
+Modified: 3/18/11  
+Version: 1  
 [Homepage](http://code.robincwillis.com)
 ___
 **License:** MIT
