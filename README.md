@@ -6,27 +6,35 @@
    |_/\__/  \_/ |_/  |  |_/ \/ \/  |_/|__/|__/|_/ \/ \___/\__/ \_/|_/|__/
 ```
 
-- Title: fw_Nets
-- Author: Robin Willis
-- Modified: 3/18/11
-- Version: 1
+Title: fw_Nets
+
+Author: Robin Willis
+
+Modified: 3/18/11
+
+Version: 1
+
 [Homepage](http://code.robincwillis.com)
-***
+___
 **License:** MIT
-***
+___
 **Description:**
+
 For decades designers have experimented with simulated structural behavior and its geometric implications through “Form Finding”. Techniques in form finding are best known through the hanging chain models of Antonio Gaudi as well as the physical models of Frei Otto who experimented with a number of physical modeling techniques to discover highly accurate structural forms. Recently, methods such as dynamic relaxation and force density have been employed for analyzing and optimizing structural forms. While these methods have led to a number of tools for refining structural forms, very few design tools exist for exploring and creating new structural forms. As a response to this Axel Killian and John Ochsenforf developed a three dimensional design and analysis tool to find funicular structural forms in real time through the use of particle-spring systems. This can be accomplished directly through computational methods providing powerful fast ways to generate and manipulate digital cable net models.
-***
+___
 **Dependancies:**
+
 - PEASYCAM
 - TREAR PHYSICS
 - CONTROLP5
-***
+
+___
 **Notes:**
+
 - This read me is incomplete.
 - There are plenty of undocumented bugs
-***
-	
+
+___
 **PHYSICS:**
 - NOT GOING TO GET INTO EXPLAINING THIS, THESE SLIDERS BASICLY CONTROL AVAILABLE SETTINGS FROM THE TREAT PHYSICS LIBRARY SO JUST SEE ITS DOCUMENTATION
 
@@ -70,8 +78,6 @@ For decades designers have experimented with simulated structural behavior and i
 - LEFT CLICK: ROTATE
 - RIGHT CLICK: ZOOM
 - OPT + RIGHT CLICK: PAN
-
-***
 
 **PARTICLES:**
 THERE ARE BASICLY TWO KINDS OF PARTICLES (FIXED AND FREE) CLICK AND DRAG A FREE PARTICLE TO FIX IT, CLICK A FIXED PARTICLE TO FREE IT. YOU CAN SNAP PARTICLES TO IMPORTED GEOMETRY OR POINTS ON THE STAGE GRID. YOU CAN CREATE MORE COMPLEX GEOMETRY BY WEILDING THE PARTICLES OF NETS TOGETHER. TO DO SO DRAG ONE PARTICLE ON TOP OF ANOTHER AND REALEASE. THESE TWO PARTICLES WILL BECOME ONE AND THE FORCES OF THE NET WILL ACT THROUGH THEM (AS OF RIGHT NOW THERE IS NO WAY TO UNWEILD PARTICLES)
