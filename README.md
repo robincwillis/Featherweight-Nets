@@ -1,11 +1,3 @@
-```
-	    _                          _   _                             
-           | |  o                  o  | | | | o                   |      
- ,_    __  | |      _  _              | | | |     ,   __   __   __|   _  
-/  |  /  \_|/ \_|  / |/ |  |  |  |_|  |/  |/  |  / \_/    /  \_/  |  |/  
-   |_/\__/  \_/ |_/  |  |_/ \/ \/  |_/|__/|__/|_/ \/ \___/\__/ \_/|_/|__/
-```
-
 Title: fw_Nets  
 Author: Robin Willis  
 Modified: 3/18/11  
@@ -79,3 +71,11 @@ ___
 
 THERE ARE BASICLY TWO KINDS OF PARTICLES (FIXED AND FREE) CLICK AND DRAG A FREE PARTICLE TO FIX IT, CLICK A FIXED PARTICLE TO FREE IT. YOU CAN SNAP PARTICLES TO IMPORTED GEOMETRY OR POINTS ON THE STAGE GRID. YOU CAN CREATE MORE COMPLEX GEOMETRY BY WEILDING THE PARTICLES OF NETS TOGETHER. TO DO SO DRAG ONE PARTICLE ON TOP OF ANOTHER AND REALEASE. THESE TWO PARTICLES WILL BECOME ONE AND THE FORCES OF THE NET WILL ACT THROUGH THEM (AS OF RIGHT NOW THERE IS NO WAY TO UNWEILD PARTICLES)
 RADIAL NETS HAVE A SPECIAL KIND OF PARTICLE AT THE CENTROID OF THERE UPPER RING, THIS BASICLY DIRECTS THE STEM AND NET GEOMETRY, THIS PARTICLE IS ALWAYS FIXED BUT CAN BE DRAGGED ANYWHERE TO DIRECT YOUR NET GEOMETRY
+
+```
+	    _                          _   _                             
+           | |  o                  o  | | | | o                   |      
+ ,_    __  | |      _  _              | | | |     ,   __   __   __|   _  
+/  |  /  \_|/ \_|  / |/ |  |  |  |_|  |/  |/  |  / \_/    /  \_/  |  |/  
+   |_/\__/  \_/ |_/  |  |_/ \/ \/  |_/|__/|__/|_/ \/ \___/\__/ \_/|_/|__/
+```
